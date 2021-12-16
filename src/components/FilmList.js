@@ -5,7 +5,7 @@ import Slider from "react-slick"
 const FilmList = (props) => {
     const settings = {
         infinite: true,
-        slidesToShow: 5,
+        slidesToShow: 4,
         slidesToScroll: 3
     }
     return (
