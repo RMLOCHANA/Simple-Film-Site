@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+// import React, { useEffect } from 'react';
 import { FilmCard } from './FilmCard';
 import Slider from "react-slick"
 
