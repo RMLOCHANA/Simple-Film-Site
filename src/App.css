@@ -1,0 +1,97 @@
+
+/* Direct CSS */
+
+#HeaderTitle {
+  margin-top: 30px;
+}
+
+.Films {
+  background-color: #434343;
+  width: 100%;
+  height: 500px;
+  vertical-align: middle;
+  margin-bottom: 80px;
+}
+
+.App { 
+  color: hsl(0, 0%, 100%);
+  font-family: Roboto Mono;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 47px;
+  letter-spacing: 0em;
+  text-align: center;
+
+  
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* MY CSS */
+
+.App {
+  position: relative;
+  height: 448px;
+  /* color: #EB5757; */
+  object-fit: contain;
+}
+body{
+  background-color: #343434;
+}
+#cardDiv{
+background-color: #343434;
+
+
+
+}
+/* #maindiv{
+background-color:#434343; 
+height: 500px;
+padding-bottom: 100px;
+} */
+
+#favbtnheart{
+color: rgb(255, 240, 241);          
+}
+#Mylistbtnlist{
+color: rgb(255, 240, 241);
+}
+
+#image-container:hover {
+cursor: pointer;
+transform: scale(1.1);
+}

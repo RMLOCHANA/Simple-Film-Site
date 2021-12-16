@@ -1,0 +1,64 @@
+{
+  "Films": [
+    {
+      "id": 1,
+      "name": "sniper",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BYmM3YmIyMjQtNTIzYi00YmU3LWE1ZjItYjMyY2QwMDE0YTQ2XkEyXkFqcGdeQXVyNzA2MDE5NDg@._V1_.jpg",
+      "description": "Sniper” is based on a true story that got more complicated after Kyle himself told it in the book that gives the film its title. ... Post 9/11, the war in Iraq puts Kyle to work as a sharpshooter,and the film depicts his skills in this area as almost."
+    },
+    {
+      "id": 2,
+      "name": "Wrath of Man",
+      "img_url": "https://www.latercera.com/resizer/OIwYfwYA2B_bRL7H_kdqNgrawQI=/arc-anglerfish-arc2-prod-copesa/public/UA5WMJEMNRA2VD6ON42AMTGJZA.jpg",
+      "description": "Mysterious and wild-eyed, a new security guard for a cash truck surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from."
+    },
+    {
+      "id": 3,
+      "name": "A Cop Movie",
+      "img_url": "https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*6405*6003_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYGkn4PzLYdTf1rdytnBwHqM7dykmqzNXw%5D5LHcAjFKTv9x3H9MuIuiomKMUTWw1f6sC7MMl9Nd*0HaPu48M3eoRkmVcJYX1XjFWo36iDgkXW1y2l%5DvIXLM3RRz2O.jpg",
+      "description": "The dispatchers on the police radio deliver updates in code and also describe developing situations — a street fight, a truck accident — and send Teresa to an unspecified emergency that turns out to be a woman in labor."
+    },
+    {
+      "id": 4,
+      "name": "christmas on the Carousel",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNDg2YjlhNGEtNGJmNS00ZTQ2LWJhMjEtMDc4NTQyMTcxYTRiXkEyXkFqcGdeQXVyMjY3ODc2MTg@._V1_.jpg",
+      "description": "Four lifelong friends convene over winter break for their last Christmas at home together. Four lifelong friends convene over winter break for their last Christmas at home together.Four lifelong friends convene over winter break."
+    },
+    {
+      "id": 5,
+      "name": "Night Teeth",
+      "img_url": "https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/night-teeth-2021/large_night-teeth-poster.jpeg",
+      "description": "moonlights as a chauffeur for one night. His task: drive two mysterious young women (Debby Ryan and Lucy Fry) around Los Angeles for a night of party hopping. Taken captive by his clients' charm."
+    },
+    {
+      "id": 6,
+      "name": "The Covid Killer",
+      "img_url": "https://i0.wp.com/moviesandmania.com/wp-content/uploads/2021/11/The-Covid-Killer-movie-film-psycho-horror-thriller-serial-killer-New-York-2021-poster-detail.jpg?fit=2670%2C1496&ssl=1",
+      "description": "Will Jordan, an incompetent detective, and his rookie partner, Martina Pippen, must traverse the streets of New York in a race against time to stop a serial killer who is taking advantage of Gov."
+    },
+    {
+      "id": 7,
+      "name": "COVID-19: Invasion",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BYmM3YmIyMjQtNTIzYi00YmU3LWE1ZjItYjMyY2QwMDE0YTQ2XkEyXkFqcGdeQXVyNzA2MDE5NDg@._V1_.jpg",
+      "description": "Rex (Kevin Nash) and his men aim to kill the homeless people living in a local deserted school hoping it'll slow an ultra deadly strand of covid. Now, outnumbered 100 to 1, 'Hap' must save his little sister."
+    },
+    {
+      "id": 8,
+      "name": "F9",
+      "img_url": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/f9.jpg",
+      "description": "F9 (also known as F9: The Fast Saga and internationally as Fast and Furious 9) is a 2021 American action film directed by Justin Lin from a screenplay by Daniel Casey and Lin. ... In F9,Dominic Toretto."
+    },
+    {
+      "id": 9,
+      "name": "Finch",
+      "img_url": "https://i1.wp.com/foryourfilmsonly.com/wp-content/uploads/2021/11/Finch-poster-550x309-1.jpg?fit=550%2C309&ssl=1",
+      "description": " inch is an an aeronautics engineer who uses his intelligence and STEM skills to outlast a catastrophic weather event. He creates a robot to ensure that his pet dog will be cared for once he's no longer able."
+    },
+    {
+      "id": 10,
+      "name": "Overlord",
+      "img_url": "https://freakingeek.com/wp-content/uploads/2018/11/Overlord-film-Banniere-800x445.png",
+      "description": "The plot follows several American soldiers who are dropped behind enemy lines the day before D-Day and discover secret Nazi experiments. Overlord was released in the United States on November 9, 2018."
+    }
+  ]
+}
